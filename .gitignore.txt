@@ -1,0 +1,69 @@
+# Unity generated folders
+[Libraries to ignore]
+[Libraries to ignore]
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Logs/
+MemoryCaptures/
+MemoryCapturesRaw/
+
+# User-specific files
+UserSettings/
+*.user
+*.userprefs
+*.suo
+*.tmp
+*.bak
+*.swp
+*.pidb
+*.booproj
+*.svd
+
+# Crash Reports
+sysinfo.txt
+
+# Auto-generated project files
+*.csproj
+*.unityproj
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Builds
+Build/
+Builds/
+ExportedObj/
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.gradle
+*.jar
+
+# Rider / JetBrains IDE files
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Packaging
+*.unitypackage
+
+# Backup & autosave
+*.autosave
+
+# Plastic SCM
+.plastic/
+ignore.conf
